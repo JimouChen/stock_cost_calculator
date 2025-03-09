@@ -2,4 +2,7 @@
 An app for caluculating the cost of stock.
 
 # demo 
-![Simulator Screenshot - iPhone 14 Pro - 2025-03-10 at 00 24 30](https://github.com/user-attachments/assets/cd75b14b-fb4e-40f5-b430-9dc01501ff6c)
+
+<img width="410" alt="image" src="https://github.com/user-attachments/assets/cd91d16c-1b4b-42b9-8353-1cae694b9e27" />
+
+<img width="407" alt="image" src="https://github.com/user-attachments/assets/19ccda91-38e9-4256-9953-76d5101b86af" />
